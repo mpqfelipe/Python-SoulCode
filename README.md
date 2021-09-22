@@ -1,8 +1,7 @@
-# Estudos-SoulCode
+# Estudos-SoulCode :blue_book:
 
 ## Descriçao
-* Trabalho no qual criamos um sistema de uma biblioteca :blue_book:
-
+* Trabalho no qual criamos um sistema de uma biblioteca 
 <img src = ".\diagrama.png">
 
 
