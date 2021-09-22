@@ -1,7 +1,9 @@
 # Estudos-SoulCode
 
-## Trabalho de um sistema de uma biblioteca
+## Descriçao
+* Trabalho no qual criamos um sistema de uma biblioteca :blue_book:
 
+<img src = ".\diagrama.png">
 
 
 # Integrantes do grupo
